@@ -4,7 +4,7 @@
 <h3>Full-Stack Developer</h3>
 
 </div>
- 
+
 <br>
 
 <p align="center">
@@ -52,8 +52,6 @@ I work with founders, startups, and small teams who want someone reliable to tur
   <img src="https://skillicons.dev/icons?i=vscode,figma,notion,bash&perline=8" alt="Tools icons" />
 </p>
 
-
-
 <br>
 
 <div align="center">
@@ -85,7 +83,7 @@ I work with founders, startups, and small teams who want someone reliable to tur
   <h3>Contact</h3>
 
   <p>
-    <a href="https://github.com/zr7791474-blip"><img src="https://img.shields.io/badge/GitHub-zr7791474--blip-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+    <a href="https://github.com"><img src="https://shields.io" alt="GitHub"/></a>
     <a href="https://x.com/zkr_ad"><img src="https://img.shields.io/badge/X-@zkr__ad-111111?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
     <a href="mailto:zakariaaadlii@gmail.com"><img src="https://img.shields.io/badge/Email-zakariaaadlii%40gmail.com-111111?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/></a>
   </p>
